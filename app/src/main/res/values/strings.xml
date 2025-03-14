@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">BMI Calculator</string>
-    <string name="bmi_calculator">Body Mass Index Calculator</string>
-    <string name="height_label">Height (meters)</string>
-    <string name="weight_label">Weight (kg)</string>
+    <string name="bmi_title">Body Mass Index</string>
+    <string name="height_label">Height</string>
+    <string name="weight_label">Weight</string>
     <string name="bmi_result">Body mass index is %s</string>
 </resources>
